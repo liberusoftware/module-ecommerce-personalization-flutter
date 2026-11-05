@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-personalization-flutter",
+  "capabilityKey": "planned:ecommerce:personalization",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_personalization_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/personalization.md",
+  "presentationPlan": "projects/ecommerce/flutter/personalization.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
